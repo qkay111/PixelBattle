@@ -96,3 +96,17 @@ Server|Сервер, хранящий данные об игровом проц�
 ![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramLogin.png)
 ![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameElements.png)
 ![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameCurrency.png)
+
+### 4. Диаграмма состояний<a name="4"></a>
+Диаграмма состояний представляет собой следующую диаграмму:
+![State Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/State/StateDiagram.png)
+
+### 5. Диаграмма классов<a name="5"></a>
+Диаграмма классов представляет собой следующую диаграмму:
+
+![Diagram Class](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Class/ClassDiagram.png)
+
+### 6. Диаграмма развертывания и компонентов<a name="6"></a>
+Диаграмма развёртывания и компонентов представляет собой следующую диаграмму:
+
+![Deployment-Component](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Deployment-Component/Deployment-Componen.png)
