@@ -1,0 +1,12 @@
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\bin\Debug\PixelBattle.exe.config
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\bin\Debug\PixelBattle.exe
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\bin\Debug\PixelBattle.pdb
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.csprojAssemblyReference.cache
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.MainForm.resources
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.Properties.Resources.resources
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.csproj.GenerateResource.cache
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.exe
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.pdb
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.ColourPickForm.resources
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.LoginForm.resources
+D:\projects\5_sem\ТРиТПО\PixelBattle\PixelBattle\PixelBattle\obj\Debug\PixelBattle.ShopForm.resources
